@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LGadrian
+- 👋 Hi, I’m @Guan Liu
 - 👀 I’m interested in Data Science, Machine Learning and AI.
 - 🌱 I’m currently learning Python,R,SQL
 - 💞️ I’m looking to collaborate on future project
